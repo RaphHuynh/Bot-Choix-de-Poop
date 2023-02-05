@@ -1,0 +1,5 @@
+py-cord==2.3.2
+plotly==5.13.0
+mysql-connector==2.2.9
+mysql-connector-python==8.0.32
+kaleido==0.2.1
